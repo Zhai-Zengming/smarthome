@@ -1,0 +1,15 @@
+..\..\output\adc_dma.o: ..\..\User\ADC_DMA\adc_dma.c
+..\..\output\adc_dma.o: ..\..\User\ADC_DMA\adc_dma.h
+..\..\output\adc_dma.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\adc_dma.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\adc_dma.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\adc_dma.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\adc_dma.o: ..\..\User\stm32f10x_conf.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\adc_dma.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\..\output\adc_dma.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
